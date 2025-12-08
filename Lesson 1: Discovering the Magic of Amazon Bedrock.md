@@ -10,6 +10,9 @@ Amazon Bedrock is like a **playground of powerful AI models** built by leading A
 
 And here’s the best part — you don’t need to worry about servers, scaling, or infrastructure at all. Bedrock takes care of all that behind the scenes. Just bring your ideas, your data, and your creativity.
 
+<img width="2848" height="1600" alt="image" src="https://github.com/user-attachments/assets/8397df33-d6aa-4b93-a1b4-a8a30dd59571" />
+
+
 ***
 
 ### What You Can Do with Amazon Bedrock  
