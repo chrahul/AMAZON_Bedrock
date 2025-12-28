@@ -2,7 +2,7 @@
 **Lesson 1: Discovering the Magic of Amazon Bedrock – Your Gateway to Generative AI**
 
 
-### Simplified Version with Storytelling Context  
+### Introduction 
 
 Imagine you’re building your first AI-powered app — maybe a chatbot that helps students with homework, or a tool that generates custom travel plans. You know you need a powerful AI brain behind it, but setting one up from scratch feels complicated. That’s where **Amazon Bedrock** comes in — your ready-to-use, managed gateway to the world of generative AI.  
 
