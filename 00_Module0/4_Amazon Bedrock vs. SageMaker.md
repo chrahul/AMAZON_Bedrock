@@ -1,14 +1,16 @@
 Amazon Bedrock vs. SageMaker: Customer Explanation Guide
 
-This text provides a structured, customer-facing script for AWS professionals to differentiate Amazon Bedrock and Amazon SageMaker in GenAI discussions. It emphasizes starting with customer problems, using simple definitions and analogies like RDS/EC2, and outlining use cases for quick value (Bedrock) versus deep customization (SageMaker).
+This text provides a structured, customer-facing script for AWS professionals to differentiate Amazon Bedrock and Amazon SageMaker in GenAI discussions. It emphasizes starting with customer problems, using simple definitions and analogies like RDS/EC2, and outlining use cases for quick value (Bedrock) versus deep customization (SageMaker : https://aws.amazon.com/blogs/machine-learning/new-capabilities-in-amazon-sagemaker-ai-continue-to-transform-how-organizations-develop-ai-models/).
 ​
 
 Core Differentiation
 Bedrock serves as the consumption layer for securely using foundation models without infrastructure management, ideal for chatbots, copilots, and RAG applications. SageMaker handles the creation layer for training, fine-tuning, and governing models with proprietary data, suited for regulated industries and data-heavy pipelines.
+https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-sagemaker-the-center-for-all-your-data-analytics-and-ai/
 ​
 
 Communication Strategy
 The guide structures responses in layers: mental model alignment, one-line definitions, analogies, use cases, and a journey-based view where Bedrock enables fast starts and SageMaker supports maturity. It includes a 60-second executive summary to sound confident and architectural in meetings.
+https://www.cloudthat.com/resources/blog/whats-new-in-amazon-sagemaker-ai-in-2025-a-practical-guide
 
 ---
 
@@ -178,8 +180,7 @@ Because you:
 * Framed it as a journey
 * Showed AWS-native thinking
 
-You will **not** sound stupid.
-You will sound like someone who:
+
 
 > *Designs platforms, not just demos services.*
 
