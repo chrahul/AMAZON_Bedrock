@@ -223,7 +223,7 @@ That understanding comes from:
 
 ---
 
-## 9. Where You Are Right Now (Learning Milestone)
+## 9. Where You Are Right Now 
 
 At this point, you have correctly understood:
 
